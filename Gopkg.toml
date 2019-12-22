@@ -22,7 +22,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/requilence/integram"
+  name = "github.com/darkhorse-spb/integram"
 
 [[constraint]]
   branch = "master"

@@ -116,7 +116,7 @@
 [[projects]]
   branch = "master"
   digest = "1:0c15d15b9cf4de5bf1d40e7dd6757e36f0a25027cb4b7c5af5c7eb72d145d6d8"
-  name = "github.com/requilence/integram"
+  name = "github.com/darkhorse-spb/integram"
   packages = ["."]
   pruneopts = ""
   revision = "e8bbd7013b481f0d9ef35c22efbc38dd57b4c0d5"
@@ -278,7 +278,7 @@
   input-imports = [
     "github.com/google/go-querystring/query",
     "github.com/kelseyhightower/envconfig",
-    "github.com/requilence/integram",
+    "github.com/darkhorse-spb/integram",
     "golang.org/x/oauth2",
   ]
   solver-name = "gps-cdcl"
